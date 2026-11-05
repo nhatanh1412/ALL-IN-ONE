@@ -1,0 +1,14 @@
+{
+  "name": "n-anhvn-ultimate-bot",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Bot Discord N_AnhVN — giai đoạn nền tảng",
+  "main": "src/index.js",
+  "scripts": { "start": "node src/index.js" },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^16.4.5",
+    "pg": "^8.13.1"
+  }
+}
